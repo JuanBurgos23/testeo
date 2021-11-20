@@ -9,6 +9,6 @@
 <body>
   <h1>testeo nashe</h1>  
   <h1>APP para bajar</h1>
-  <a href="/imagenes/a.jpg">APP para bajar</a>
+  <a href="holi.html">dale click </a>
 </body>
 </html>

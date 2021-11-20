@@ -7,8 +7,8 @@
     <title>Testeo</title>
 </head>
 <body>
-  <h1>testeo nashe</h1>  
-  <h1>APP para bajar</h1>
-  <a href="holi.html">dale click </a>
+  <h1>HOliii</h1>  
+  <h1>Quieres saber quien es el amor de tu vida...</h1>
+  <a href="holi.html">dale click para conocer al amor de tu vida :* </a>
 </body>
 </html>
